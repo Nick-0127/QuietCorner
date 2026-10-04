@@ -2,6 +2,10 @@
 
 An early interactive environment for the DDES9902 design checkpoint. This is a desktop-browser Unity WebGL prototype, not a tested VR application.
 
+**[Play Quiet Corner in your browser](https://nick-0127.github.io/QuietCorner/)**
+
+The public Unity project source is at https://github.com/Nick-0127/QuietCorner . GitHub Pages serves the WebGL files in `docs/` from the `main` branch.
+
 ## Scene to open
 
 **QuietCorner** at `Assets/Scenes/QuietCorner.unity`.
