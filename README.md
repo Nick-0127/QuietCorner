@@ -24,6 +24,12 @@ Open the repository root as a Unity project. The verified editor version is **60
 
 Recognisable landmarks include the central glowing orb, the three-control console, the window-side bench, garden view, lanterns and floor destinations. Warm/cool light, independently switchable sound and an optional 48-second visual guide provide clear state changes.
 
+## Scene view evidence
+
+![QuietCorner scene in the Unity Scene panel](Evidence/QuietCorner_Unity_SceneView.jpg)
+
+Captured from the Unity editor with the Scene tab selected and Play mode off.
+
 ## Building WebGL
 
 Install Web Build Support for this Unity version. Use `File > Build Profiles > Web` and the saved scene above, or use `Quiet Corner > Build WebGL checkpoint`. The custom HTML template contains loading feedback and control instructions. Gzip with Unity's decompression fallback supports ordinary static hosts such as GitHub Pages and itch.io.
